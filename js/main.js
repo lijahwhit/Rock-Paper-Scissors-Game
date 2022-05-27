@@ -1,4 +1,4 @@
-import {game} from '/js/game.js';
+import {game} from '/game.js';
 
 const rock_div = document.getElementById("r");
 const paper_div = document.getElementById("p");
