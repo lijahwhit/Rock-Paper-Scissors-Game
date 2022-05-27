@@ -1,0 +1,10 @@
+@media only screen and (min-width: 64rem) {
+    .result {
+        font-size: 40px;
+    }
+
+    img {
+        width: 120px;
+        padding: 10px;
+    }
+}
