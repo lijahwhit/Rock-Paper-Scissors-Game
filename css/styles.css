@@ -9,7 +9,12 @@
 body {
     background-color: #24272E;
     font-family: 'Asap', sans-serif;
-}
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+} 
 
 header {
     background-color: #FFFFFF;
@@ -90,7 +95,7 @@ header > h1 {
 
 img {
     width: 120px;
-    padding: 10px
+    padding: 10px;
 }
 
 .green-glow {
