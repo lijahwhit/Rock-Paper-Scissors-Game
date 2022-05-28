@@ -1,5 +1,5 @@
-import {getComputerChoice} from '/getComputerChoice.js'
-import {win, lose, draw} from '/results.js';
+import {getComputerChoice} from '/js/getComputerChoice.js'
+import {win, lose, draw} from '/js/results.js';
 
 export function game(userChoice) {
     const computerChoice = getComputerChoice();

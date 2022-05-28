@@ -1,4 +1,4 @@
-import {convertToWord} from '/convertToWord.js';
+import {convertToWord} from '/js/convertToWord.js';
 
 let userScore = 0;
 let computerScore = 0;
