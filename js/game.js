@@ -1,5 +1,5 @@
-import {getComputerChoice} from '/js/getComputerChoice.js'
-import {win, lose, draw} from '/js/results.js';
+import {getComputerChoice} from '/rps-game/js/getComputerChoice.js'
+import {win, lose, draw} from '/rps-game/js/results.js';
 
 export function game(userChoice) {
     const computerChoice = getComputerChoice();
