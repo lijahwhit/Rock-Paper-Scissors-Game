@@ -13,6 +13,4 @@ function main() {
     scissors_div.addEventListener('click', () => game('s'));
 }
 
-$config['system.core']['block_interest_cohort'] = FALSE;
-
 main();
