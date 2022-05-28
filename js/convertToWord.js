@@ -1,3 +1,5 @@
+//Elijah Whitchurch
+
 export function convertToWord(letter) {
     if (letter === "r") return "Rock";
     if (letter === "p") return "Paper";

@@ -1,3 +1,5 @@
+//Elijah Whitchurch
+
 import {game} from '/rps-game/js/game.js';
 
 const rock_div = document.getElementById("r");

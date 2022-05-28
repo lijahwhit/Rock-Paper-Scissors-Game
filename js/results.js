@@ -1,3 +1,5 @@
+//Elijah Whitchurch
+
 import {convertToWord} from '/rps-game/js/convertToWord.js';
 
 let userScore = 0;
