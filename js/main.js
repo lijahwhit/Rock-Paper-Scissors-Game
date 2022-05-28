@@ -8,9 +8,11 @@ function main() {
 
     rock_div.addEventListener('click', () => game('r'));
 
-    paper_div.addEventListener('click', () => game('p'))
+    paper_div.addEventListener('click', () => game('p'));
     
-    scissors_div.addEventListener('click', () => game('s'))
+    scissors_div.addEventListener('click', () => game('s'));
 }
+
+$config['system.core']['block_interest_cohort'] = FALSE;
 
 main();
